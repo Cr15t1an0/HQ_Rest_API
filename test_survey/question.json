@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "question": "Q1",
+      "answer": "Heets - Silver"
+    },
+    {
+      "question": "Q2",
+      "answer": "Classical"
+    },
+    {
+      "question": "Q3",
+      "answer": "Intensive"
+    }
+  ],
+  "token": "token_from_URL",
+  "title": "TEST_deeplace_heets_flavour_quiz"
+}
